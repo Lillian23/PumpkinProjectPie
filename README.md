@@ -1,4 +1,4 @@
 # PumpkinProjectPie
 # Build Settings
 markdown: kramdown
-theme: hacker
+remote_theme: jekyll-theme-hacker
